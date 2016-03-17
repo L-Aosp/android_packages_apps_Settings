@@ -1035,4 +1035,10 @@
         <item>Red</item>
     </string-array>
 
+    <!-- Defined the hide accounts' type -->
+    <string-array name="hide_account_list">
+        <item>com.qualcomm.qti.RIDL</item>
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
 </resources>
