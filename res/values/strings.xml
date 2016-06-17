@@ -7499,4 +7499,6 @@
 
     <!-- Message for telling the user the kind of BT device being displayed in list. -->
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+
+    <string name="select_sim_card">Select SIM card</string>
 </resources>
